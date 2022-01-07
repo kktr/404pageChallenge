@@ -38,20 +38,17 @@
 
 ![screenshot](https://raw.githubusercontent.com/kktr/404pageChallenge/8044535175b45ebd633b1057b7f41ca3f8b5d0cc/dist/Screen%20Shot%20404.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+I decided to escape the tutorial hell, and now I am in hell of my own incompetence. I started this mini project 3 times from scratch, and I am still dissatisfied with my work.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+edit(07-12-2021)
+It looks better now, but my code is a mess and a drudgery .
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Features
 
@@ -69,6 +66,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@kktr](https://github.com/kktr)
