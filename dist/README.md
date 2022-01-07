@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/kktr/404pageChallenge/8044535175b45ebd633b1057b7f41ca3f8b5d0cc/dist/Screen%20Shot%20404.png)
+![screenshot](https://raw.githubusercontent.com/kktr/404pageChallenge/main/dist/Screen%20Shot%20404%20deskop%20and%20mobile.png)
 
 I decided to escape the tutorial hell, and now I am in hell of my own incompetence. I started this mini project 3 times from scratch, and I am still dissatisfied with my work.
 
